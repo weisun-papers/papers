@@ -42,7 +42,7 @@ It integrates governance, decision authority, and cross-functional context to en
 
 ## Essays & Deep Dives
 
-- **[Saving Without Sacrificing: Efficiency Is a Design Choice]([articles/saving-without-sacrificing.md](https://github.com/weisun-papers/papers.wiki.git))**  
+- **[Saving Without Sacrificing: Efficiency Is a Design Choice](articles/saving-without-sacrificing.md)**  
   How architecture and decision design create sustainable efficiency without sacrificing reliability or roadmap.
 
 (More essays will be added over time.)
