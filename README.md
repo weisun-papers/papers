@@ -2,7 +2,7 @@
 Essays on platform economics, cloud strategy, and investment decisions
 
 > **Featured Essay**  
-> **[Saving Without Sacrificing: Efficiency Is a Design Choice]([articles/saving-without-sacrificing.md])**  
+> **[Saving Without Sacrificing: Efficiency Is a Design Choice](https://github.com/weisun-papers/papers/wiki/Saving-Without-Sacrificing:-Why-Efficiency-Is-a-Design-Choice)**  
 > Architecture, decision design, and platform economics —  
 > why real efficiency is a design outcome, not a cost tactic.
 
