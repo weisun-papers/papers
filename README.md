@@ -1,10 +1,15 @@
 # papers
-Essays on platform economics, cloud strategy, and investment decisions
+Essays on platform economics, cloud strategy, and executive decision-making
 
-> **Featured Essay**  
-> **[Saving Without Sacrificing: Efficiency Is a Design Choice](https://github.com/weisun-papers/papers/wiki/Saving-Without-Sacrificing:-Why-Efficiency-Is-a-Design-Choice)**  
-> Architecture, decision design, and platform economics —  
-> why real efficiency is a design outcome, not a cost tactic.
+> **Featured Essays**
+> - **[Saving Without Sacrificing: Why Efficiency Is a Design Choice](https://github.com/weisun-papers/papers/wiki/Saving-Without-Sacrificing:-Why-Efficiency-Is-a-Design-Choice)**  
+>   Architecture, decision design, and platform economics — why real efficiency is a design outcome, not a cost tactic.
+>
+> - **[When Cloud Savings Become Urgent, Judgment Matters More Than Speed](https://github.com/weisun-papers/papers/wiki/When-Cloud-Savings-Become-Urgent,-Judgment-Matters-More-Than-Speed)**  
+>   How leaders separate safe savings from platform risk under executive pressure.
+
+---
+
 
 ---
 
