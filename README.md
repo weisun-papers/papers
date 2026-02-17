@@ -16,7 +16,11 @@ Essays on platform economics, cloud strategy, and executive decision-making
 >
 > - **[From User Prediction to Infrastructure Decisions](https://github.com/weisun-papers/papers/wiki/From-User-Prediction-to-Infrastructure-Decisions)**  
 >   How predictive insights on users and workloads guide infrastructure decisions, balancing cost, SLA, and long-term platform growth.
-> 
+>
+>  - **[Cloud Economics Is Rarely About Reports or One-Off Recommendations](https://github.com/weisun-papers/papers/wiki/Cloud-Economics-Is-Rarely-About-Reports-or-One-Off-Recommendations)**  
+>   Why sustainable cloud efficiency comes from **system design, governance, and decision frameworks**, not dashboards or one-off cost cuts.
+>
+
 ---
 
 
