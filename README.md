@@ -10,7 +10,13 @@ Essays on platform economics, cloud strategy, and executive decision-making
 >
 > - **[FinOps Maturity Is About Balance—Not Blind Automation](https://github.com/weisun-papers/papers/wiki/FinOps-Maturity-Is-About-Balance%E2%80%94Not-Blind-Automation)**  
 >    Balancing data-driven recommendations with strategic human judgment — the path to mature cloud financial operations.
-
+>
+> - **[Cutting Costs Today Could Break Your Platform Tomorrow](https://github.com/weisun-papers/papers/wiki/Cutting-Costs-Today-Could-Break-Your-Platform-Tomorrow)**  
+>    Why short-term cost savings can compromise long-term platform health, roadmap, and user trust.
+>
+> **[From User Prediction to Infrastructure Decisions](https://github.com/weisun-papers/papers/wiki/From-User-Prediction-to-Infrastructure-Decisions)**  
+>   How predictive insights on users and workloads guide infrastructure decisions, balancing cost, SLA, and long-term platform growth.
+> 
 ---
 
 
