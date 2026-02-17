@@ -20,7 +20,9 @@ Essays on platform economics, cloud strategy, and executive decision-making
 >  - **[Cloud Economics Is Rarely About Reports or One-Off Recommendations](https://github.com/weisun-papers/papers/wiki/Cloud-Economics-Is-Rarely-About-Reports-or-One-Off-Recommendations)**  
 >   Why sustainable cloud efficiency comes from **system design, governance, and decision frameworks**, not dashboards or one-off cost cuts.
 >
-
+>  - **[FinOps Is Not Part of IT or Finance, But Rather Both](https://github.com/weisun-papers/papers/wiki/FinOps-Is-Not-Part-of-IT-or-Finance,-But-Rather-Both)**
+>   How strategic FinOps integrates IT, Finance, and Business/Product to deliver long-term value across hybrid and on-prem IT portfolios.
+> 
 ---
 
 
