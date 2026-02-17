@@ -14,7 +14,7 @@ Essays on platform economics, cloud strategy, and executive decision-making
 > - **[Cutting Costs Today Could Break Your Platform Tomorrow](https://github.com/weisun-papers/papers/wiki/Cutting-Costs-Today-Could-Break-Your-Platform-Tomorrow)**  
 >    Why short-term cost savings can compromise long-term platform health, roadmap, and user trust.
 >
-> **[From User Prediction to Infrastructure Decisions](https://github.com/weisun-papers/papers/wiki/From-User-Prediction-to-Infrastructure-Decisions)**  
+> - **[From User Prediction to Infrastructure Decisions](https://github.com/weisun-papers/papers/wiki/From-User-Prediction-to-Infrastructure-Decisions)**  
 >   How predictive insights on users and workloads guide infrastructure decisions, balancing cost, SLA, and long-term platform growth.
 > 
 ---
