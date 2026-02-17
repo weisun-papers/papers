@@ -7,6 +7,9 @@ Essays on platform economics, cloud strategy, and executive decision-making
 >
 > - **[When Cloud Savings Become Urgent, Judgment Matters More Than Speed](https://github.com/weisun-papers/papers/wiki/When-Cloud-Savings-Become-Urgent,-Judgment-Matters-More-Than-Speed)**  
 >   How leaders separate safe savings from platform risk under executive pressure.
+>
+> - **[FinOps Maturity Is About Balance—Not Blind Automation](https://github.com/weisun-papers/papers/wiki/FinOps-Maturity-Is-About-Balance%E2%80%94Not-Blind-Automation)**  
+>    Balancing data-driven recommendations with strategic human judgment — the path to mature cloud financial operations.
 
 ---
 
